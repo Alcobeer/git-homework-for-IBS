@@ -1,3 +1,4 @@
 Print('Hello World!')
 Print('Hello averebody')
 print("hello")
+Ptint("hello my dear friend")
